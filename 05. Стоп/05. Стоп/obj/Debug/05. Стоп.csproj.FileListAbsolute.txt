@@ -1,0 +1,5 @@
+c:\users\elitsa\documents\visual studio 2015\Projects\05. Стоп\05. Стоп\bin\Debug\_05.Стоп.exe.config
+c:\users\elitsa\documents\visual studio 2015\Projects\05. Стоп\05. Стоп\bin\Debug\_05.Стоп.exe
+c:\users\elitsa\documents\visual studio 2015\Projects\05. Стоп\05. Стоп\bin\Debug\_05.Стоп.pdb
+c:\users\elitsa\documents\visual studio 2015\Projects\05. Стоп\05. Стоп\obj\Debug\_05.Стоп.exe
+c:\users\elitsa\documents\visual studio 2015\Projects\05. Стоп\05. Стоп\obj\Debug\_05.Стоп.pdb
